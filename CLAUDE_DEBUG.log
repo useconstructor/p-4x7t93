@@ -1,0 +1,20 @@
+
+
+=== GIT STATUS ===
+ M app/globals.css
+ M app/layout.tsx
+ M app/page.tsx
+ M package-lock.json
+ M tsconfig.json
+?? .build-instructions.md
+?? CLAUDE_DEBUG.log
+?? app/components/
+
+=== FILES IN APP ===
+total 24
+drwxr-xr-x 1 builder builder   180 Aug 29 18:21 .
+drwxr-xr-x 1 builder builder   400 Aug 29 18:22 ..
+drwxr-xr-x 1 builder builder   120 Aug 29 18:21 components
+-rw-r--r-- 1 builder builder   196 Aug 29 18:21 globals.css
+-rw-r--r-- 1 builder builder   742 Aug 29 18:21 layout.tsx
+-rw-r--r-- 1 builder builder 22051 Aug 29 18:21 page.tsx
